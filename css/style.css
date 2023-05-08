@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #333; 
+  margin: auto;
+  width: 100%;
+  max-width: 1200px;}
+
+
+
+aside {  float: left;
+  width: 25%;
+  height: 1200px;
+background-color: #000530;
+color: white}
+
+main {  display: right;
+  width: 75%;
+  height: 1200px;
+  background-color: rgb(224, 223, 223);
+  color: #000215;
+}
+
+.avatar { 
+  width: 50%;
+  margin: 30px;
+  margin-left: 50%;
+  transform: translate(-50%, 00%)
+}
+
+.header-main { margin-bottom: 40px;}
+
+h1 {
+  text-align: center;
+  padding-left: 25%;
+  padding-top: 20px;
+}
+
+h2 {padding-bottom: 20px;
+font-size: 15px;}
+
+h3 {padding-left: 70%;
+  padding-top: 15px;
+}
+h4 {padding-left: 85%;
+  padding-top: 15px;}
+
+.header-main {
+  padding-left: 35%;}
+
+.proposition-item
+{ margin-left: 5%;
+margin-bottom: 10px;
+font-size: 13px;}
+
+hr {width: 80%}
+
+.portfolio-item
+{ margin-left: 5%;
+margin-bottom: 7px;
+ font-size: 13px;}
+
+ .portfolio-lector
+ { margin-left: 10%;
+ margin-bottom: 12px;
+  font-size: 13px;}
+
+
+
+
+.header-aside { font-size: 15;
+padding: 20px 25px 10px;}
+
+
+.item {
+  font-size: 13px;
+  padding: 5px 10px;
+  }
+
+.contact-link {
+  text-decoration: none;}
+
+.contact-link:link {
+    color: white}
+
+.contact-link:visited {
+      color: white;}
+
+
+
+
+
+
